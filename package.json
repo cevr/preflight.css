@@ -1,0 +1,13 @@
+{
+  "name": "preflight.css",
+  "version": "8.0.1",
+  "description": "Built on top of normalize.css, Preflight is a set of base styles for projects",
+  "main": "preflight.css",
+  "style": "preflight.css",
+  "files": [
+    "LICENSE.md",
+    "preflight.css"
+  ],
+  "license": "MIT",
+  "homepage": "https://tailwindcss.com/docs/preflight#app"
+}
