@@ -1,6 +1,6 @@
 {
   "name": "preflight.css",
-  "version": "8.0.1",
+  "version": "0.0.0",
   "description": "Built on top of normalize.css, Preflight is a set of base styles for projects",
   "main": "preflight.css",
   "style": "preflight.css",
